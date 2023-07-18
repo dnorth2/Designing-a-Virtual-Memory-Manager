@@ -1,5 +1,3 @@
-//Deondre North
-//CWID: 11871481
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
